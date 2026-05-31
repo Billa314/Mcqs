@@ -1,6 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 import type { Mcq, QuizSession } from "@/lib/types";
+import { supabase } from "@/lib/supabase";
 
 const ROOT = process.cwd();
 const STORAGE_DIR = path.join(ROOT, "storage");
@@ -50,47 +51,82 @@ async function ensureStorage() {
 }
 
 export async function loadMcqs(): Promise<Mcq[]> {
-  await ensureStorage();
-  const raw = await fs.readFile(MCQS_FILE, "utf-8");
-  return JSON.parse(raw) as Mcq[];
+  const { data, error } = await supabase.from("mcqs").select("*");
+  if (error) {
+    console.error("Supabase loadMcqs error:", error);
+    return [];
+  }
+  return data as Mcq[];
 }
 
 export async function saveMcqs(mcqs: Mcq[]): Promise<void> {
-  await ensureStorage();
-  await fs.writeFile(MCQS_FILE, JSON.stringify(mcqs, null, 2), "utf-8");
+  // If running locally, we can still save to JSON for backup or just push to Supabase
+  // For now, let's insert to Supabase. Note: this might fail on large arrays due to limits.
+  const { error } = await supabase.from("mcqs").upsert(mcqs.map(m => ({
+    id: m.id,
+    question: m.question,
+    options: m.options,
+    answer: m.answer,
+    explanation: m.explanation || null,
+    category: m.category || null,
+    chapter: m.chapter || null,
+    source_pdf: m.source_pdf || null,
+    source_page: m.source_page || null
+  })));
+  if (error) console.error("Supabase saveMcqs error:", error);
 }
 
 export async function appendMcqs(newMcqs: Mcq[]): Promise<number> {
-  const existing = await loadMcqs();
-  const ids = new Set(existing.map((m) => m.id));
-  const unique = newMcqs.filter((m) => !ids.has(m.id));
-  const merged = [...existing, ...unique];
-  await saveMcqs(merged);
-  return unique.length;
+  const { error } = await supabase.from("mcqs").insert(newMcqs.map(m => ({
+    id: m.id,
+    question: m.question,
+    options: m.options,
+    answer: m.answer,
+    explanation: m.explanation || null,
+    category: m.category || null,
+    chapter: m.chapter || null,
+    source_pdf: m.source_pdf || null,
+    source_page: m.source_page || null
+  })));
+  if (error) {
+    console.error("Supabase appendMcqs error:", error);
+    return 0;
+  }
+  return newMcqs.length;
 }
 
 export async function getMcqsByCategory(category?: string): Promise<Mcq[]> {
-  const all = await loadMcqs();
-  if (!category) return all;
-  return all.filter(
-    (m) => m.category.toLowerCase() === category.toLowerCase(),
-  );
+  if (!category) return loadMcqs();
+  const { data, error } = await supabase
+    .from("mcqs")
+    .select("*")
+    .ilike("category", category);
+  
+  if (error) {
+    console.error("Supabase getMcqsByCategory error:", error);
+    return [];
+  }
+  return data as Mcq[];
 }
 
 export async function loadSessions(): Promise<QuizSession[]> {
-  await ensureStorage();
-  const raw = await fs.readFile(SESSIONS_FILE, "utf-8");
-  return JSON.parse(raw) as QuizSession[];
+  const { data, error } = await supabase.from("sessions").select("*");
+  if (error) return [];
+  return data.map(d => ({
+    id: d.id,
+    mcqIds: d.mcq_ids,
+    createdAt: d.created_at
+  }));
 }
 
 export async function saveSession(session: QuizSession): Promise<void> {
-  try {
-    const sessions = await loadSessions();
-    sessions.push(session);
-    await ensureStorage();
-    await fs.writeFile(SESSIONS_FILE, JSON.stringify(sessions, null, 2), "utf-8");
-  } catch (error) {
-    console.warn("Could not save session (likely read-only environment like Vercel):", error);
+  const { error } = await supabase.from("sessions").insert([{
+    id: session.id,
+    mcq_ids: session.mcqIds,
+    created_at: session.createdAt
+  }]);
+  if (error) {
+    console.error("Supabase saveSession error:", error);
   }
 }
 
