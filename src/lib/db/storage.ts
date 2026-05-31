@@ -31,17 +31,21 @@ export interface ProcessedPdfMeta {
 }
 
 async function ensureStorage() {
-  await fs.mkdir(STORAGE_DIR, { recursive: true });
-  await fs.mkdir(CHUNKS_DIR, { recursive: true });
-  await fs.mkdir(OCR_CACHE_DIR, { recursive: true });
-  await fs.mkdir(EXTRACTED_DIR, { recursive: true });
-  await fs.mkdir(STRUCTURED_DIR, { recursive: true });
-  for (const file of [MCQS_FILE, SESSIONS_FILE, META_FILE, IMAGES_META_FILE]) {
-    try {
-      await fs.access(file);
-    } catch {
-      await fs.writeFile(file, "[]", "utf-8");
+  try {
+    await fs.mkdir(STORAGE_DIR, { recursive: true });
+    await fs.mkdir(CHUNKS_DIR, { recursive: true });
+    await fs.mkdir(OCR_CACHE_DIR, { recursive: true });
+    await fs.mkdir(EXTRACTED_DIR, { recursive: true });
+    await fs.mkdir(STRUCTURED_DIR, { recursive: true });
+    for (const file of [MCQS_FILE, SESSIONS_FILE, META_FILE, IMAGES_META_FILE]) {
+      try {
+        await fs.access(file);
+      } catch {
+        await fs.writeFile(file, "[]", "utf-8");
+      }
     }
+  } catch (error) {
+    console.warn("Could not ensure storage directories (likely read-only environment like Vercel):", error);
   }
 }
 
@@ -80,10 +84,14 @@ export async function loadSessions(): Promise<QuizSession[]> {
 }
 
 export async function saveSession(session: QuizSession): Promise<void> {
-  const sessions = await loadSessions();
-  sessions.push(session);
-  await ensureStorage();
-  await fs.writeFile(SESSIONS_FILE, JSON.stringify(sessions, null, 2), "utf-8");
+  try {
+    const sessions = await loadSessions();
+    sessions.push(session);
+    await ensureStorage();
+    await fs.writeFile(SESSIONS_FILE, JSON.stringify(sessions, null, 2), "utf-8");
+  } catch (error) {
+    console.warn("Could not save session (likely read-only environment like Vercel):", error);
+  }
 }
 
 export async function loadProcessedPdfs(): Promise<ProcessedPdfMeta[]> {

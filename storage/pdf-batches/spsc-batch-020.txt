@@ -1,0 +1,158 @@
+================================================================================
+SOURCE       : pdfcoffee.com_spsc-past-solved-papers-pdf-free (1).pdf
+BATCH        : 20 of 20 (15 MCQs)
+CHAPTER      : SPSC Past Papers
+CATEGORY     : General Knowledge
+EXTRACTED AT : 2026-05-31T15:04:05.722Z
+TOTAL MCQs   : 15
+================================================================================
+
+[MCQ-0001]
+QUESTION: What information is given by a value of regression analysis: the coefficient of determination? .?
+A) The independent variable is known
+B) Strength of relationship without error.
+C) Both strength and direction of
+D) Both variables are random relationship . variables.
+CORRECT: A
+EXPLANATION: Correct: The independent variable is known (SPSC past paper, p.160)
+PAGE: 160
+
+[MCQ-0002]
+QUESTION: 0 + 2X, 62. The term homoscedasticity refers ta: the Yintereept is:?
+A) Can be calculated only after = variable, , for any value of regression analysis is performed. . . independent variable, 
+B) May be smaller than - 1 only when
+C) Uniform variance of the A and Yare inversely independent variable
+D) Equals the positive or negative 63. The sum of squares of which type of square root of the coefficient of deviations is 
+CORRECT: A
+EXPLANATION: Correct: Can be calculated only after = variable, , for any value of regression analysis is performed. . . independent variable,  (SPSC past paper, p.160)
+PAGE: 160
+
+[MCQ-0003]
+QUESTION: Which one of the following statement is (a) 0.19 (by 09 true?
+A) None of these (3)
+B) None of these (2)
+C) None of these (1)
+D) . : . (c) 0.6561 (dy 0.1
+CORRECT: D
+EXPLANATION: Correct answer: . : . (c) 0.6561 (dy 0.1
+PAGE: 161
+
+[MCQ-0004]
+QUESTION: ‘lhe esumated coefficient of determination ; variables ) in the least squares 1s equal to all except which one of the relationship, following?
+A) . : . (c) 0.6561 (dy 0.1
+B) None of these (3)
+C) .
+D) None of these (2)
+CORRECT: C
+EXPLANATION: Correct answer: .
+PAGE: 161
+
+[MCQ-0005]
+QUESTION: The true correlation coefficient p will be is called the: zero only if:?
+A) Multiple correlation coefficient
+B) The intercept of the true
+C) Standard error of estimate : regression line is equal to zero
+D) Coefficient of determination
+CORRECT: A
+EXPLANATION: Correct: Multiple correlation coefficient (SPSC past paper, p.161)
+PAGE: 161
+
+[MCQ-0006]
+QUESTION: Which: of the following is not a What is the value of the sccond 4- component of time series?
+A) quarterly moving average? ;
+B) (b) A time series graph {a) 100 (b) 120
+C) : (d Cpl
+D) weeks were as follows: (1) Many commonly used quantity
+CORRECT: A
+EXPLANATION: Correct answer: quarterly moving average? ;
+PAGE: 162
+
+[MCQ-0007]
+QUESTION: The number of cars sold by a car-dealer (b) Discard highest and lowest value during just 6 months in 2003 was as for cach quarter following: : . (c) Calculate the four-quarter moving January February total 18 16 . (d) None of these . March April ' 21. To measure changes in total monetary 28 51 worth, one should calculate: May June (a) Price index Fo 55 (b)  Quanuty index What are the first 3 monthly moving (¢) Value index ) averages?
+A) weeks were as follows: (1) Many commonly used quantity
+B) : (d Cpl
+C) quarterly moving average? ;
+D) (b) A time series graph {a) 100 (b) 120
+CORRECT: B
+EXPLANATION: Correct answer: : (d Cpl
+PAGE: 162
+
+[MCQ-0008]
+QUESTION: A histogram is: index for 2003 of 120, what would be the (a) A frequency graph percentage relative for 2003?
+A) : (d Cpl
+B) quarterly moving average? ;
+C) (b) A time series graph {a) 100 (b) 120
+D) weeks were as follows: (1) Many commonly used quantity
+CORRECT: C
+EXPLANATION: Correct answer: (b) A time series graph {a) 100 (b) 120
+PAGE: 162
+
+[MCQ-0009]
+QUESTION: The weekly takings in a shop over § “method?
+A) weeks were as follows: (1) Many commonly used quantity
+B) (b) A time series graph {a) 100 (b) 120
+C) quarterly moving average? ;
+D) : (d Cpl
+CORRECT: A
+EXPLANATION: Correct answer: weeks were as follows: (1) Many commonly used quantity
+PAGE: 162
+
+[MCQ-0010]
+QUESTION: 29 86 82. Which: of the following is not a What is the value of the sccond 4- component of time series? quarterly moving average? ;?
+A) Seasonal Variation
+B) 61.50 thousand
+C) Cyclical Vanation
+D) Trend
+CORRECT: A
+EXPLANATION: Correct: Seasonal Variation (SPSC past paper, p.162)
+PAGE: 162
+
+[MCQ-0011]
+QUESTION: gave an 86. A histogram is: index for 2003 of 120, what would be the?
+A) A frequency graph percentage relative for 2003?
+B) 120
+C) A pgraph-plotting mean against
+D) 880
+CORRECT: A
+EXPLANATION: Correct: A frequency graph percentage relative for 2003? (SPSC past paper, p.162)
+PAGE: 162
+
+[MCQ-0012]
+QUESTION: The weights used in a quantity index are: NE Er 5 FS TW CC 0 SC TE AE @ Tl @ lel slels ol [16 | (d) | 17. | (© [ 18 | @ ["19. [(® | 20. | (a) | [ 21. | ® | 22 | @ | 23 | @ | 2. 1 ® [25 [ (& | [26 | ® | 27. | @ | 28 | @ [ 29. | @ | 30 | (© | [ 3 |» | 32 [| @ [ 3] @
+A) (& 50. ? (b)
+B) 40. ? (@
+C) 8 ? @
+D) 34 (4 35. (
+CORRECT: D
+EXPLANATION: Correct answer: 34 (4 35. (
+PAGE: 163
+
+[MCQ-0013]
+QUESTION: To measure how much the cost of soms relative index, we would be best able to variable changes over time, we would use: compare indices from various periods if:?
+A) Inflation index
+B) Basc values were used as p,q,
+C) None of these
+D) Either base or fixed values were 99. When the base year values are used as used as p,q, weights, the weighted average of
+CORRECT: A
+EXPLANATION: Correct: Inflation index (SPSC past paper, p.163)
+PAGE: 163
+
+[MCQ-0014]
+QUESTION: Commodities subject to considerable price price index is the same as: variations could best be measured by:?
+A) The Paasche's index
+B) Price index
+C) The Laspeyers' index
+D) None of these
+CORRECT: A
+EXPLANATION: Correct: The Paasche's index (SPSC past paper, p.163)
+PAGE: 163
+
+[MCQ-0015]
+QUESTION: A primary difference between average of normal period if: relatives and aggregate methods is that:?
+A) Itis neither the peak nor the trough
+B) Average of relative methods sum for which we have data. all prices before finding the ratio
+C) There was no inflation or deflation
+D) Aggregates methods are useful only of prices during the period. . for price indices
+CORRECT: A
+EXPLANATION: Correct: Itis neither the peak nor the trough (SPSC past paper, p.163)
+PAGE: 163

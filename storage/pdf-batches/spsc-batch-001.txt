@@ -1,73 +1,283 @@
 ================================================================================
 SOURCE       : pdfcoffee.com_spsc-past-solved-papers-pdf-free (1).pdf
-BATCH        : 1 of 1 (7 MCQs)
+BATCH        : 1 of 20 (50 MCQs)
 CHAPTER      : SPSC Past Papers
 CATEGORY     : General Knowledge
-EXTRACTED AT : 2026-05-31T14:25:48.213Z
-TOTAL MCQs   : 7
+EXTRACTED AT : 2026-05-31T15:04:05.565Z
+TOTAL MCQs   : 50
 ================================================================================
 
 [MCQ-0001]
-QUESTION: The name of Ceylon changed nto Sti. 40 Ahmad Khan Kharal the famous character Lank in of war of Independence belongs to (a) 196% (b) 1972 (al Gogera ®)  Satans (c) 1976 (dy 1974 (c)* Jhamra 27 One yard 1s equal to. (d)  Cheecha Wetns (a) 0.959 (hy 091 4] Faz Ahmad Faiz was impnso (c) 1128 (dy 1160 imolvement in —— a 28 1 BTU 15 equal to how many joules?
-A) (3) Agartala (b) labore
-B) (c) Typha (dd) Mumps
-C) (b) Thomas Hardy
-D) None of these (3)
+QUESTION: 0 dry was fought between Cling?
+A) Taly
+B) England and
+C) Austna
+D) Engineer
 CORRECT: A
+EXPLANATION: Correct: Taly (SPSC past paper, p.2)
+PAGE: 2
+
+[MCQ-0002]
+QUESTION: The name of Ceylon changed nto Sti. 40 Ahmad Khan Kharal the famous character Lank in of war of Independence belongs to (a) 196% (b) 1972 (al Gogera ®)  Satans (c) 1976 (dy 1974 (c)* Jhamra 27 One yard 1s equal to. (d)  Cheecha Wetns (a) 0.959 (hy 091 4] Faz Ahmad Faiz was impnso (c) 1128 (dy 1160 imolvement in —— a 28 1 BTU 15 equal to how many joules?
+A) (b) Thomas Hardy
+B) (c) Typha (dd) Mumps
+C) None of these (3)
+D) (3) Agartala (b) labore
+CORRECT: D
 EXPLANATION: Correct answer: (3) Agartala (b) labore
 PAGE: 3
 
-[MCQ-0002]
+[MCQ-0003]
 QUESTION: One’ Gram of gold 1s equal to how many (a)* Jane Austen Milligrams of gold?
-A) (b) Thomas Hardy
+A) None of these (3)
 B) (3) Agartala (b) labore
 C) (c) Typha (dd) Mumps
-D) None of these (3)
-CORRECT: A
+D) (b) Thomas Hardy
+CORRECT: D
 EXPLANATION: Correct answer: (b) Thomas Hardy
 PAGE: 3
 
-[MCQ-0003]
+[MCQ-0004]
 QUESTION: One Inch is equal to 44 Which of the following disease 1s not (a) 28cm (b) 2¢m caused by virus” (c)¥ 254cm (d)  300cm (3) Smallpox  (b) Polo 32 If SX - 15 = 50 then find the value of X?
-A) (c) Typha (dd) Mumps
+A) None of these (3)
 B) (b) Thomas Hardy
-C) None of these (3)
-D) (3) Agartala (b) labore
-CORRECT: A
+C) (3) Agartala (b) labore
+D) (c) Typha (dd) Mumps
+CORRECT: D
 EXPLANATION: Correct answer: (c) Typha (dd) Mumps
 PAGE: 3
 
-[MCQ-0004]
-QUESTION: First Noble Prize in Physics was awarded (d mir and Pakistan 10?
-A) None of these (3)
-B) 67. W Gr in a computer stand for?
-C) URL 1s an abbreviation of:
-D) which state off
+[MCQ-0005]
+QUESTION: Koh-e-Judi is located in?
+A) Greek Russian
+B) India
+C) Turkey
+D) Sn Lanka
+CORRECT: C
+EXPLANATION: Correct: Turkey (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0006]
+QUESTION: Ahmad Khan Kharal the famous character Lank in of war of Independence belongs to?
+A) 196%
+B) Jhamra 27 One yard 1s equal to.
+C) Cheecha Wetns
+D) labore
 CORRECT: B
+EXPLANATION: Correct: Jhamra 27 One yard 1s equal to. (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0007]
+QUESTION: One’ Gram of gold 1s equal to how many?
+A) Jane Austen Milligrams of gold?
+B) Thomas Hardy
+C) 100mg
+D) 1000 mg
+CORRECT: A
+EXPLANATION: Correct: Jane Austen Milligrams of gold? (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0008]
+QUESTION: Cholera is caused by?
+A) Nepal
+B) Sn Lanka
+C) India
+D) v Bactena 1d Nane of these
+CORRECT: B
+EXPLANATION: Correct: Sn Lanka (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0009]
+QUESTION: Which of the following disease 1s not?
+A) 28cm
+B) 2¢m caused by virus”
+C) 254cm
+D) Polo 32 If SX - 15 = 50 then find the value of X?
+CORRECT: C
+EXPLANATION: Correct: 254cm (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0010]
+QUESTION: Oldest inhabited city in the world 15”?
+A) Protease
+B) Lipase
+C) Harappa
+D) Amylase
+CORRECT: A
+EXPLANATION: Correct: Protease (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0011]
+QUESTION: Oldest monarchy 1s?
+A) Water
+B) Uramum
+C) Saudi Arab
+D) Plaunum
+CORRECT: A
+EXPLANATION: Correct: Water (SPSC past paper, p.3)
+PAGE: 3
+
+[MCQ-0012]
+QUESTION: First Noble Prize in Physics was awarded (d mir and Pakistan 10?
+A) URL 1s an abbreviation of:
+B) which state off
+C) 67. W Gr in a computer stand for?
+D) None of these (3)
+CORRECT: C
 EXPLANATION: Correct answer: 67. W Gr in a computer stand for?
 PAGE: 4
 
-[MCQ-0005]
+[MCQ-0013]
 QUESTION: Which among the following is ancient < Random Access Modern wonder of world?
 A) 67. W Gr in a computer stand for?
-B) which state off
-C) None of these (3)
-D) URL 1s an abbreviation of:
-CORRECT: D
+B) None of these (3)
+C) URL 1s an abbreviation of:
+D) which state off
+CORRECT: C
 EXPLANATION: Correct answer: URL 1s an abbreviation of:
 PAGE: 4
 
-[MCQ-0006]
+[MCQ-0014]
 QUESTION: Who was ventor of printing press ?
-A) None of these (3)
+A) URL 1s an abbreviation of:
 B) 67. W Gr in a computer stand for?
-C) which state off
-D) URL 1s an abbreviation of:
-CORRECT: C
+C) None of these (3)
+D) which state off
+CORRECT: D
 EXPLANATION: Correct answer: which state off
 PAGE: 4
 
-[MCQ-0007]
+[MCQ-0015]
+QUESTION: “"Jallianwala Bagh" 1s located in: Kashnur &?
+A) Lahore
+B) Dell
+C) India ;
+D) Lucknow
+CORRECT: A
+EXPLANATION: Correct: Lahore (SPSC past paper, p.4)
+PAGE: 4
+
+[MCQ-0016]
+QUESTION: per cent passed, bow i le?
+A) Ivana
+B) Meclinda
+C) 57
+D) None of these
+CORRECT: A
+EXPLANATION: Correct: Ivana (SPSC past paper, p.4)
+PAGE: 4
+
+[MCQ-0017]
+QUESTION: Novel "War and Peace” was written by:?
+A) 3A50gm
+B) Shelly
+C) Shakespeare
+D) Aurportol Iran 81 Most powerful hurticane to hit the
+CORRECT: A
+EXPLANATION: Correct: 3A50gm (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0018]
+QUESTION: Neutron was discovered by:?
+A) Liquefied Natural Gas
+B) Newton
+C) Priestly
+D) Liquid Natural Gas
+CORRECT: A
+EXPLANATION: Correct: Liquefied Natural Gas (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0019]
+QUESTION: “The Statue of Liberty” was presented to plants produced the: the United States by the people of:?
+A) Carbon
+B) " Oxygen
+C) Bruam
+D) Germany
+CORRECT: B
+EXPLANATION: Correct: " Oxygen (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0020]
+QUESTION: Habsha is the old name of:?
+A) Shah Ismail
+B) " Ethiopia
+C) Kenya
+D) Tanzama
+CORRECT: B
+EXPLANATION: Correct: " Ethiopia (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0021]
+QUESTION: An example of a heredity disease is:?
+A) Dengue
+B) Malana
+C) Polio
+D) Hemophilia
+CORRECT: D
+EXPLANATION: Correct: Hemophilia (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0022]
+QUESTION: Shape of the Milky Way Galaxy 1s:?
+A) Jhelum
+B) Chakwal
+C) Arntock
+D) Spiral 99. Amnesia is related to:
+CORRECT: B
+EXPLANATION: Correct: Chakwal (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0023]
+QUESTION: The Brush Government announced the refuges annulment of partition of Bengal in:?
+A) 8
+B) &5
+C) 1912
+D) 1926
+CORRECT: A
+EXPLANATION: Correct: 8 (SPSC past paper, p.5)
+PAGE: 5
+
+[MCQ-0024]
+QUESTION: Dunng the process of riPeyktbeta n Competiti recYaeth Forum to plants produced the: ie United States by the people of:?
+A) Carbon
+B) Oxygen
+C) Brita
+D) Germany
+CORRECT: B
+EXPLANATION: Correct: Oxygen (SPSC past paper, p.6)
+PAGE: 6
+
+[MCQ-0025]
+QUESTION: The Brush Government announced the refuges annulment of partion ot Bengal in?
+A) &1
+B) 8S
+C) 1912
+D) " R011 Meters J |
+CORRECT: D
+EXPLANATION: Correct: " R011 Meters J | (SPSC past paper, p.6)
+PAGE: 6
+
+[MCQ-0026]
+QUESTION: plants produced the: 1c United States by the people of.?
+A) Carbon
+B) Oxygen
+C) Bram
+D) Germany
+CORRECT: B
+EXPLANATION: Correct: Oxygen (SPSC past paper, p.7)
+PAGE: 7
+
+[MCQ-0027]
+QUESTION: Anexample of a heredity disease is:?
+A) " Dengue
+B) Malana
+C) Polio
+D) All of these
+CORRECT: A
+EXPLANATION: Correct: " Dengue (SPSC past paper, p.7)
+PAGE: 7
+
+[MCQ-0028]
 QUESTION: Which Indian personality served as the Company?
 A) None of these (3)
 B) None of these (2)
@@ -76,3 +286,223 @@ D) President of the UN General Assembly in (a)¥" John Cecil Rhodes
 CORRECT: D
 EXPLANATION: Correct answer: President of the UN General Assembly in (a)¥" John Cecil Rhodes
 PAGE: 8
+
+[MCQ-0029]
+QUESTION: Who was the leader of the 1958 coup in?
+A) Settlement of Sir Creck dispute Iraq. which led to proclamation of Iraq as
+B) Waller Barrage a Republic!
+C) Withdrawal of forces from Suchin
+D) Saddam Hussam
+CORRECT: A
+EXPLANATION: Correct: Settlement of Sir Creck dispute Iraq. which led to proclamation of Iraq as (SPSC past paper, p.8)
+PAGE: 8
+
+[MCQ-0030]
+QUESTION: Which Indian personality served as the Company? President of the UN General Assembly in?
+A) " John Cecil Rhodes 1953.54?
+B) Joseph D. Rockefeller
+C) Mary Robson 7 In which organ of the Umted Nauons all
+D) Econonuc and Social Council
+CORRECT: A
+EXPLANATION: Correct: " John Cecil Rhodes 1953.54? (SPSC past paper, p.8)
+PAGE: 8
+
+[MCQ-0031]
+QUESTION: UNESCQ Wich deals with Education, States Navy SEALS operation leading to Science. and Culture, has its headquarters climmaton of Osama bin Ladin in Abbot in Abad? New York (b) Vienna (a)  Lionhean KD Pans (d) Geneva (b)¥" Neptuen Spear 25. Beymg Declarauon and Platform for (c)  Gerommo Action (1992) deals with? (d)  Shuckwave
+A) Internanonal trade 33. 6x 3(3- 1)1s equal to: "
+B) ¥ Rights and Status of Wonien (a) o (b) ir
+C) Rights and Protection of Cluldren (c) 20 BC) | | ; -_
+D) Population control 34. "World Economic Forum’, which ho
+CORRECT: A
+EXPLANATION: Answer from source document; verify against original PDF if needed.
+PAGE: 9
+
+[MCQ-0032]
+QUESTION: Average age of 10 Rl ell Yoga : a i” ee a be mK dia Regulatory Authonty in 1 vears When the age of their (2017) (PF MRA)?
+A) (d) Shuckwave
+B) (a) Fungus (b) Plant . (a) RAM (b) Hard Disk
+C) matructor wo added, the average ape (a) Ahsar Alam
+D) (b) Low Energy Diode
+CORRECT: C
+EXPLANATION: Correct answer: matructor wo added, the average ape (a) Ahsar Alam
+PAGE: 9
+
+[MCQ-0033]
+QUESTION: Yeast used in making of bread is a: for a standalone computer?
+A) (a) Fungus (b) Plant . (a) RAM (b) Hard Disk
+B) matructor wo added, the average ape (a) Ahsar Alam
+C) (b) Low Energy Diode
+D) New York (b) Vienna (a) Lionhean
+CORRECT: A
+EXPLANATION: Correct answer: (a) Fungus (b) Plant . (a) RAM (b) Hard Disk
+PAGE: 9
+
+[MCQ-0034]
+QUESTION: When was the first Nobel Pn rded ?
+A) (b) Low Energy Diode
+B) (a) Fungus (b) Plant . (a) RAM (b) Hard Disk
+C) New York (b) Vienna (a) Lionhean
+D) matructor wo added, the average ape (a) Ahsar Alam
+CORRECT: A
+EXPLANATION: Correct answer: (b) Low Energy Diode
+PAGE: 9
+
+[MCQ-0035]
+QUESTION: The Presidency of Died Nations 31. Which among the following is the odd one Secunty rt: (mn alphabetical out?
+A) matructor wo added, the average ape (a) Ahsar Alam
+B) (a) Fungus (b) Plant . (a) RAM (b) Hard Disk
+C) (b) Low Energy Diode
+D) order) among ers ever: (a) RAM (b) ROM
+CORRECT: D
+EXPLANATION: Correct answer: order) among ers ever: (a) RAM (b) ROM
+PAGE: 9
+
+[MCQ-0036]
+QUESTION: UNESCQ Wich deals with Education, States Navy SEALS operation leading to Science. and Culture, has its headquarters climmaton of Osama bin Ladin in Abbot in Abad?
+A) (d) Shuckwave
+B) New York (b) Vienna (a) Lionhean
+C) order) among ers ever: (a) RAM (b) ROM
+D) (b) Low Energy Diode
+CORRECT: B
+EXPLANATION: Correct answer: New York (b) Vienna (a) Lionhean
+PAGE: 9
+
+[MCQ-0037]
+QUESTION: Beymg Declarauon and Platform for (c)  Gerommo Action (1992) deals with?
+A) (b) Low Energy Diode
+B) order) among ers ever: (a) RAM (b) ROM
+C) (d) Shuckwave
+D) New York (b) Vienna (a) Lionhean
+CORRECT: C
+EXPLANATION: Correct answer: (d) Shuckwave
+PAGE: 9
+
+[MCQ-0038]
+QUESTION: LED technology is energy efficient. What?
+A) Kidneys
+B) Intestins does LED stand for?
+C) Throat
+D) Joi &
+CORRECT: C
+EXPLANATION: Correct: Throat (SPSC past paper, p.9)
+PAGE: 9
+
+[MCQ-0039]
+QUESTION: Reshma was 2 legendry folk smnger of?
+A) Nau Nahal Singh Pabistan She died of Cancer in Lahore in:
+B) Kharrak Smdh
+C) v Nov 2013
+D) Jan 2009
+CORRECT: A
+EXPLANATION: Correct: Nau Nahal Singh Pabistan She died of Cancer in Lahore in: (SPSC past paper, p.11)
+PAGE: 11
+
+[MCQ-0040]
+QUESTION: Grassland plants located in Argenti p ) une p Argentina are i id Bosanguet C c) reen dy Mar (a) Prairies (b) Dowm 86. Who among the following he » that the = id Steppes (d) None of these fault lines of cnvilization are the foiiy : - ast t y : 2 IT brooding ol Gibraltar connects the Atlantic grounds of conflicts in the 21° cenmuny?
+A) None of these (3)
+B) None of these (2)
+C) None of these (1)
+D) Ocean with the: (a) Francis Fuhusama
+CORRECT: D
+EXPLANATION: Correct answer: Ocean with the: (a) Francis Fuhusama
+PAGE: 12
+
+[MCQ-0041]
+QUESTION: IT brooding ol Gibraltar connects the Atlantic grounds of conflicts in the 21° cenmuny? Ocean with the:?
+A) Francis Fuhusama [IF] Yep on . . ho ; 2 ie
+B) Samuel Huntington 0, tan Ocean
+C) Henry Kissinger i Mediterranean Sea
+D) a.
+CORRECT: B
+EXPLANATION: Correct: Samuel Huntington 0, tan Ocean (SPSC past paper, p.12)
+PAGE: 12
+
+[MCQ-0042]
+QUESTION: Who said "Man 1s by nature a politcal (b)Y 15 May 1974 ammal”™”? (¢) 11 May 1998
+A) Winston Churchill (dy 20 Mav 1999
+B) Karl Marx 98 HDI (Human Development Index) as an
+C) ¥ Anstotle indicator of the well being of a country
+D) None of these was the bram child of
+CORRECT: A
+EXPLANATION: Answer from source document; verify against original PDF if needed.
+PAGE: 13
+
+[MCQ-0043]
+QUESTION: Who said "Man 1s by nature a politcal (b)Y 15 May 1974 ammal”™”?
+A) None of these (2)
+B) tc) It accelerates blood supply to the
+C) (¢) 11 May 1998
+D) None of these (3)
+CORRECT: C
+EXPLANATION: Correct answer: (¢) 11 May 1998
+PAGE: 13
+
+[MCQ-0044]
+QUESTION: "Face book" 1s onc of the most popular ?
+A) tc) It accelerates blood supply to the
+B) (¢) 11 May 1998
+C) None of these (2)
+D) None of these (3)
+CORRECT: A
+EXPLANATION: Correct answer: tc) It accelerates blood supply to the
+PAGE: 13
+
+[MCQ-0045]
+QUESTION: Dunng the Brush rule the only Briush?
+A) Amartya Sen King to visit India and hold his Darbar iby Javier Pore De Custar was:
+B) \nam Sm
+C) Edward VII
+D) George V td} None of these
+CORRECT: A
+EXPLANATION: Correct: Amartya Sen King to visit India and hold his Darbar iby Javier Pore De Custar was: (SPSC past paper, p.13)
+PAGE: 13
+
+[MCQ-0046]
+QUESTION: UNESCO which deals wath Fducanon, Abbottabad Science and Culture, has ws headguanters (a) Lawn heart in (byy Neptune Speat (a) New York (by Vienna (¢) Geronimo (c) Pans (dy Geneva (dy Shockwave 25 Beye Declaranon and Platform for 33 Pedagogy 1s the Science of Action (1992) deals with?
+A) None of these (2)
+B) None of these (3)
+C) None of these (1)
+D) (a) Cluldren diseases
+CORRECT: D
+EXPLANATION: Correct answer: (a) Cluldren diseases
+PAGE: 15
+
+[MCQ-0047]
+QUESTION: Liquids that evaporate quickly are known held in Paris. Where was COP20 held?
+A) as hguids: (a)¥" Lima (by Kyoto
+B) None of these (3)
+C) vegetable 1s a pood source of potassium? (a) Elephants (b) Rhinoceros
+D) None of these (2)
+CORRECT: A
+EXPLANATION: Correct answer: as hguids: (a)¥" Lima (by Kyoto
+PAGE: 16
+
+[MCQ-0048]
+QUESTION: If a ship travels from fresh water to a sca to Pakistan” or ocean, 1t will: (a)¥ Indus River Dolphins : (3) Ruse a litle higher (b) Snow Leopards (b) Sink completely (c) Gypsy Vulures (c) Sink a litle lower (d)  Houbara Bustard 4 (4) Remam unaffected 51. Which ammal 1s most illegally traded Which one of the following fruits ammal in the world?
+A) None of these (3)
+B) None of these (2)
+C) as hguids: (a)¥" Lima (by Kyoto
+D) vegetable 1s a pood source of potassium? (a) Elephants (b) Rhinoceros
+CORRECT: D
+EXPLANATION: Correct answer: vegetable 1s a pood source of potassium? (a) Elephants (b) Rhinoceros
+PAGE: 16
+
+[MCQ-0049]
+QUESTION: What was the real name of the famous | he belong to? Pakistani actor Santosh Kumar?
+A) Thaland
+B) Cambodia
+C) Nazir Bag [
+D) Japan
+CORRECT: A
+EXPLANATION: Correct: Thaland (SPSC past paper, p.16)
+PAGE: 16
+
+[MCQ-0050]
+QUESTION: If a ship travels from fresh water to a sca to Pakistan” or ocean, 1t will:?
+A) Snow Leopards
+B) Sink completely
+C) Gypsy Vulures
+D) Sink a litle lower
+CORRECT: A
+EXPLANATION: Correct: Snow Leopards (SPSC past paper, p.16)
+PAGE: 16
