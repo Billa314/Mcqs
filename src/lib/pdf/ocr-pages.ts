@@ -1,10 +1,10 @@
 import { promises as fs } from "fs";
 import { createWorker, type Worker } from "tesseract.js";
 
+import type { PDFDocumentProxy } from "pdfjs-dist";
+
 type PdfJsModule = typeof import("pdfjs-dist/legacy/build/pdf.mjs");
-type PdfDocument = Awaited<
-  ReturnType<Awaited<ReturnType<PdfJsModule["getDocument"]>>["promise"]>
->;
+type PdfDocument = PDFDocumentProxy;
 
 let pdfjsModule: PdfJsModule | null = null;
 let ocrWorker: Worker | null = null;

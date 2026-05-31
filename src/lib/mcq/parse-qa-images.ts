@@ -54,7 +54,7 @@ function cleanAnswer(raw: string): string {
 }
 
 function extractAnswerFromTail(body: string): { question: string; answer: string } | null {
-  let rest = body.trim();
+  const rest = body.trim();
 
   const bracket = rest.match(/^(.+?)\s*[\[|]\s*([^|\]]{1,80}?)\s*[\]|]?\s*$/);
   if (bracket) {
