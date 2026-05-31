@@ -1,0 +1,41 @@
+{
+  "name": "mcq-quiz-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "process-pdf": "tsx scripts/process-pdf.ts",
+    "process-images": "tsx scripts/process-images.ts",
+    "build-mcqs": "tsx scripts/build-mcqs-from-txt.ts",
+    "process-spsc-pdf": "tsx scripts/process-spsc-pdf.ts",
+    "build-super": "tsx scripts/build-super-txt.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.70",
+    "next": "^15.3.3",
+    "pdf-parse": "1.1.1",
+    "pdfjs-dist": "^4.10.38",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tesseract.js": "^6.0.1",
+    "uuid": "^11.1.0",
+    "zod": "^3.25.56"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.28.0",
+    "eslint-config-next": "^15.3.3",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
